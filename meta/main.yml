@@ -1,0 +1,18 @@
+---
+
+galaxy_info:
+  author: Sujay Mansingh
+  description: A role for installing zookeeper and setting up a cluster.
+  company: None
+  license: MIT
+  min_ansible_version: 1.2
+  platforms:
+  - name: Ubuntu
+    versions:
+    - trusty
+  categories:
+  - cloud
+  - clustering
+  - database
+  - system
+dependencies: []
